@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="90" fill="#145a8d"/>
+<circle cx="256" cy="205" r="150" fill="white" opacity=".97"/>
+<text x="256" y="235" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="95" font-weight="700" fill="#145a8d">MATEK</text>
+<text x="256" y="330" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" fill="white">RELATÓRIO</text>
+</svg>

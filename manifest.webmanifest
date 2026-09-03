@@ -1,0 +1,17 @@
+{
+  "name": "Matek - Relatório de Visita",
+  "short_name": "Matek Visita",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#145a8d",
+  "description": "Aplicativo de campo para preenchimento do Relatório Técnico de Visita Matek.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

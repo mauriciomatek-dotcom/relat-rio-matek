@@ -1,0 +1,27 @@
+MATEK - RELATÓRIO DE VISITA - VERSÃO CELULAR + WINDOWS
+
+WINDOWS
+1. Extraia o ZIP para uma pasta fixa do computador.
+2. Dê dois cliques em "Matek_Relatorio_Windows.bat".
+3. O aplicativo abrirá no navegador em http://localhost:8765.
+4. No Edge ou Chrome, use a opção "Instalar este site como aplicativo" para criar um ícone próprio.
+5. Para encerrar o servidor local, feche a janela do PowerShell.
+
+CELULAR ANDROID
+Esta pasta já está preparada como PWA (aplicativo web instalável).
+Para instalar no Android como um aplicativo de verdade, ela precisa ser publicada em um endereço HTTPS.
+Depois de publicada, basta abrir o endereço no Chrome e escolher:
+Menu > Adicionar à tela inicial / Instalar aplicativo.
+
+O aplicativo inclui:
+- preenchimento completo do relatório;
+- fotos pela câmera;
+- assinaturas na tela;
+- cálculo de tempo da visita;
+- salvamento automático local;
+- backup/restauração em arquivo JSON;
+- geração de PDF pela impressão do navegador;
+- funcionamento offline depois de instalado como PWA.
+
+IMPORTANTE
+A publicação HTTPS não está incluída neste ZIP porque exige um serviço de hospedagem (por exemplo, GitHub Pages ou outro servidor web).
